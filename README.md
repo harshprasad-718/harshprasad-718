@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @harshprasad-718
-- 👀 I’m interested in Cloud Computing.
-- 🌱 I’m currently learning Google cloud.
+- 👀 I’m interested in Data Analytics.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me harshprasad718@gmail.com
 
